@@ -32,7 +32,10 @@ $ cd weather-app
 ## 💻 Projeto
 
 O projecto teve como base a contrução de uma app de monitoramento do tempo em cada cidade do mundo. <br>
-Para isso, usei a API [Open Weather](https://openweathermap.org/) para ter acesso a dados em tempo real.
+
+Para isso, usei a API [Open Weather](https://openweathermap.org/) para ter acesso a dados em tempo real. <br>
+
+Site disponivel na [Demo](https://boring-boyd-c48a88.netlify.app/)
 
 
 ## 📝 License
